@@ -57,7 +57,7 @@ Me chamo Bruno Melo e sou um estudante apaixonado por tecnologia, atualmente cur
 <br/>
 <br/>
 
-### 🤩 Outros...
+### 🤩 Outros... 😱
 
 <img
     align="left"
