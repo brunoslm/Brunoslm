@@ -54,7 +54,7 @@ Me chamo Bruno Melo e sou um estudante apaixonado por tecnologia, atualmente cur
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
-###🤩 Outros...
+### 🤩 Outros...
 <img
     align = left
     alt = "Latex"
