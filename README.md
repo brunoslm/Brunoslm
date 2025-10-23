@@ -59,7 +59,7 @@ Me chamo Bruno Melo e sou um estudante apaixonado por tecnologia, atualmente cur
     align = left
     alt = "Latex"
     title="Latex"
-    widht="30px"
+    width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
 />
