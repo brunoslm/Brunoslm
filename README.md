@@ -69,6 +69,7 @@ Me chamo Bruno Melo e sou um estudante apaixonado por tecnologia, atualmente cur
 />
 
 <br/>
+
 ### 📉 Histórico de Commits
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VFSVINI/VFSVINI/output/github-snake-dark.svg" />
