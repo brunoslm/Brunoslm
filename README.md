@@ -2,7 +2,7 @@
 
 **`👨‍💻 Student & Tech Enthusiast`**
 
-I am Bruno Melo, and I am currently studying **Information Systems** at the [Center for Informatics (CIn) - UFPE](https://portal.cin.ufpe.br/).
+I am Bruno Melo, and I am currently studying **Information Systems** at the [Centro de Informática (CIn) - UFPE](https://portal.cin.ufpe.br/).
 
 ---
 
@@ -17,9 +17,11 @@ I am Bruno Melo, and I am currently studying **Information Systems** at the [Cen
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### IDEs & Document Processing
+### IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
+
+### Document Processing
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
