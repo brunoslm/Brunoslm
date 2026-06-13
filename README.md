@@ -27,7 +27,11 @@ I am Bruno Melo, and I am currently studying **Information Systems** at the [Cen
 ## Commit History
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USER_AQUI/SEU_USER_AQUI/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USER_AQUI/SEU_USER_AQUI/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SEU_USER_AQUI/SEU_USER_AQUI/output/github-snake.svg" />
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VFSVINI/VFSVINI/output/github-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VFSVINI/VFSVINI/output/github-snake.svg" />
+
+  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/VFSVINI/VFSVINI/output/github-snake.svg" />
+
 </picture>
