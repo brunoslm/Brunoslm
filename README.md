@@ -1,79 +1,33 @@
-# 🐸 Bruno Melo
+#  Bruno Melo
 
-**`👨‍💻 Estudante`**
+**`👨‍💻 Student & Tech Enthusiast`**
 
-Me chamo Bruno Melo e sou um estudante apaixonado por tecnologia, atualmente cursando **Sistemas de Informação** no [Centro de Informática (CIn) da UFPE](https://portal.cin.ufpe.br/).
+I am Bruno Melo, and I am currently studying **Information Systems** at the [Center for Informatics (CIn) - UFPE](https://portal.cin.ufpe.br/).
 
-### 🤖 Linguagens e Tecnologias 😎
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## Technologies and Tools
 
-### 🤩 Outros... 😱
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<img
-    align="left"
-    alt="Latex"
-    title="Latex"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
-/>
+### Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<br/>
+### IDEs & Document Processing
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-### 📉 Histórico de Commits
+---
+
+## Commit History
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VFSVINI/VFSVINI/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VFSVINI/VFSVINI/output/github-snake.svg" />
-  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/VFSVINI/VFSVINI/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USER_AQUI/SEU_USER_AQUI/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USER_AQUI/SEU_USER_AQUI/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SEU_USER_AQUI/SEU_USER_AQUI/output/github-snake.svg" />
 </picture>
-
