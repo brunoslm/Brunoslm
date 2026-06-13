@@ -17,7 +17,6 @@ I am Bruno Melo, and I am currently studying **Information Systems** at the [Cen
 **Frameworks:**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Databases:**
 
